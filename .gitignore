@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.build/
+develop-eggs/
+.eggs/
+*.egg-info/
+.venv/
+env/
+venv/
+
+# Logs
+*.log
+
+# Docker
+docker_data/
+*.pid
+*.sock
+
+# Spark & Hadoop
+tmp/
+checkpoint/
+*._spark*
+*.crc
+hdfs/
+
+# Node / React
+node_modules/
+dist/
+build/
+*.env
+.env.local
+
+# VSCode
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
