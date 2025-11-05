@@ -1,0 +1,5 @@
+[
+  { "user_id": 1, "name": "Alice", "favorite_category": "electronics" },
+  { "user_id": 2, "name": "Bob", "favorite_category": "shoes" },
+  { "user_id": 3, "name": "Charlie", "favorite_category": "gaming" }
+]
